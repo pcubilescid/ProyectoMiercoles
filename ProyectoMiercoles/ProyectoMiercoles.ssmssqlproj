@@ -22,6 +22,24 @@
     </LogicalFolder>
     <LogicalFolder Name="Queries" Type="0" Sorted="true">
       <Items>
+        <FileNode Name="Apellidos_por_Pais.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-P6M1FBC:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-P6M1FBC</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Apellidos_por_Pais.sql</FullPath>
+        </FileNode>
+        <FileNode Name="ApellidosPais.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-P6M1FBC:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-P6M1FBC</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>ApellidosPais.sql</FullPath>
+        </FileNode>
+        <FileNode Name="DireccionHome_Francia.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-P6M1FBC:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-P6M1FBC</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>DireccionHome_Francia.sql</FullPath>
+        </FileNode>
         <FileNode Name="mi_primer_join.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-P6M1FBC:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>DESKTOP-P6M1FBC</AssociatedConnSrvName>
@@ -33,6 +51,18 @@
           <AssociatedConnSrvName>DESKTOP-P6M1FBC</AssociatedConnSrvName>
           <AssociatedConnUserName />
           <FullPath>personas_por_pais.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery1.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-P6M1FBC:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-P6M1FBC</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLQuery1.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Telefonos_de_casa.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-P6M1FBC:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-P6M1FBC</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Telefonos_de_casa.sql</FullPath>
         </FileNode>
       </Items>
     </LogicalFolder>
